@@ -28,3 +28,6 @@ Demo app/
 
 # ── Các file khác ───────────────────────────────
 data_preprocessing_m01.ipynb
+
+# ── Claude Code config (local) ────────────────────────────────────────────────
+.claude/
