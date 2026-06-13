@@ -1,0 +1,30 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+.venv2/
+venv/
+env/
+
+# ── Jupyter ────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Audio dataset gốc (nặng, bản quyền RAVDESS) ───────────────────────────────
+dataset_ravdess/
+dataset Ravdess 17/
+
+# ── Demo app (đã upload)) ────────────────────────────────────────
+Demo app/
+
+# ── Các file khác ───────────────────────────────
+data_preprocessing_m01.ipynb
